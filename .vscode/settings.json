@@ -1,4 +1,4 @@
 {
-    "python.dataScience.jupyterServerURI": "https://hostname:8888",
+    "python.dataScience.jupyterServerURI": "local",
     "git.ignoreLimitWarning": true
 }
